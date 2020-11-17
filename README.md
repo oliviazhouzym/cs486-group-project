@@ -23,6 +23,8 @@ E.g Python userBasedCollabFilter.py 800015 105021 song_dataset.txt 10
 
 10 nearest neighbours and their similarity values:
 
+neighbour_id  similarity
+
 1600196 0.5589067288502397
 
 1695150 0.5525568839779398
@@ -45,6 +47,8 @@ E.g Python userBasedCollabFilter.py 800015 105021 song_dataset.txt 10
 
 
 The predicted rating of song 1853 for user 1662912 is: 4.343751017141255
+
+
 
 The RMSE of the system: 0.4920309712863019
 
